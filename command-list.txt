@@ -7,4 +7,6 @@ GIT CONFIG --GLOBAL USER.EMAIL "email"		- Configure user's email
 GIT CONFIG --GLOBAL --LIST 					- List content of global variables
 GIT CLONE https://github.com/....			- Clone a github project on local disk
 GIT STATUS									- Show Git project's status
-...
+GIT ADD filename							- Add a file to staging
+GIT COMMIT -m "description of work done"	- Commit staged files to local repository
+GIT PUSH ORIGIN MASTER						- Push local repository to remote repository
