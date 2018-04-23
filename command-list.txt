@@ -1,0 +1,10 @@
+PWD 										- Present Working Directory
+LS 											- List files
+CD 											- Change Directory
+GIT VERSION									- Show Git version
+GIT CONFIG --GLOBAL USER.NAME "username"	- Configure user's name
+GIT CONFIG --GLOBAL USER.EMAIL "email"		- Configure user's email
+GIT CONFIG --GLOBAL --LIST 					- List content of global variables
+GIT CLONE https://github.com/....			- Clone a github project on local disk
+GIT STATUS									- Show Git project's status
+...
